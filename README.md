@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+[![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)](https://www.codewars.com/users/Nostalgeek23/badges/large)
 
-[![codewars]([https://www.codewars.com/users/username/badges/large](https://www.codewars.com/users/Nostalgeek23/badges/large))]
 <!--
 **Nostalgeek23/Nostalgeek23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
