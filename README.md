@@ -1,6 +1,8 @@
-### Hi there 👋
+
 <div align = center>
-[![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)](https://www.codewars.com/users/Nostalgeek23/badges/large)
+  ### Hi there 👋
+  
+[![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
 
 <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
 
