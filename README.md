@@ -28,13 +28,14 @@
 <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"/>
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
+
 <h2>⚡ Stats </h2>
 <div align="center">
-    <img src="https://www.codewars.com/users/Nostalgeek23/badges/large"/>
+  <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
 </div>
 
 <div align="center">
-  <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
+    <img src="https://www.codewars.com/users/Nostalgeek23/badges/large"/>
 </div>
 
 <h2>📫 Reach me on </h2>
