@@ -37,7 +37,7 @@
 
 <h2>💬 I’m currently working on </h2>
 <a href="https://github.com/Nostalgeek23/LUMAJavaSeleniumTestNGAllure">
-  <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/51da7ce4-9685-42b3-9016-2e793dd68eb5"/>
+  <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/21fc0183-5729-4888-8bb0-325350a59bd4"/>
 </a>
 <h2>⚡ Stats </h2>
 <div align="center">
