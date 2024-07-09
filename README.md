@@ -6,8 +6,7 @@
   <p align="center">
   <samp>I'm a QA Engineer with a background in logistics and some experience in product management, including writing user stories. I have hands-on experience in manual testing and recently completed a course in Java Selenium TestNG to build my skills in automated testing. I’m dedicated to learning and improving my abilities to ensure high-quality software.
   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+
 </p>
 
 <h2>🔭 Tools </h2>
