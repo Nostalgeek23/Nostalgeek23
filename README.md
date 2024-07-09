@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/9bc9bba2-d8b0-4a60-89f9-4c4506125a11" alt="header"/>
+  <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/85344059-d441-4876-ae3e-5d53d5a23897" alt="header"/>
 </div>
 
   
