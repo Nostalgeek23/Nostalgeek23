@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    ![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
+    <img src="https://www.codewars.com/users/Nostalgeek23/badges/large"/>
 </div>
 
 
