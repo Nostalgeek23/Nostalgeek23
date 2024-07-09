@@ -2,6 +2,13 @@
 <div align="center">
   <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/85344059-d441-4876-ae3e-5d53d5a23897" alt="header"/>
 </div>
+  <h2 align="center"> 👨‍💻 Whoami</h2>
+  <p align="center">
+  <samp>I'm a QA Engineer with a background in logistics and some experience in product management, including writing user stories. I have hands-on experience in manual testing and recently completed a course in Java Selenium TestNG to build my skills in automated testing. I’m dedicated to learning and improving my abilities to ensure high-quality software.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
 
 <h2>🔭 Tools </h2>
 <div>
@@ -29,6 +36,8 @@
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
+<h2>I’m currently working on </h2>
+<a href="https://github.com/Nostalgeek23/LUMAJavaSeleniumTestNGAllure"></a>
 <h2>⚡ Stats </h2>
 <div align="center">
   <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
