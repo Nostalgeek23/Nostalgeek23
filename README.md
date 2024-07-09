@@ -39,6 +39,15 @@
 <a href="https://github.com/Nostalgeek23/LUMAJavaSeleniumTestNGAllure">
   <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/88cf2091-62bc-4aea-bbac-80fa69e51c17"/>
 </a>
+
+<h2>💼Tasks examples</h2>
+<a href="https://drive.google.com/drive/folders/1mn83T9eqRCnac55SmsZByYygIFQ6NoL-?usp=sharing">
+  Test Cases
+</a>
+<a href="https://drive.google.com/drive/folders/18lLGK8elatXnbkrglsbepv-nQo707F8G?usp=sharing">
+  User Stories
+</a>
+
 <h2>⚡ Stats </h2>
 <div align="center">
   <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
