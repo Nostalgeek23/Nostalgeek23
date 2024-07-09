@@ -3,9 +3,9 @@
   <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/85344059-d441-4876-ae3e-5d53d5a23897" alt="header"/>
 </div>
 
-<div align="center">
+
   [![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
-</div>
+
 
 <div align="center">
   <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
