@@ -6,7 +6,6 @@
   <p align="center">
   <samp>I'm a QA Engineer with a background in logistics and some experience in product management, including writing user stories. I have hands-on experience in manual testing and recently completed a course in Java Selenium TestNG to build my skills in automated testing. I’m dedicated to learning and improving my abilities to ensure high-quality software.
   </samp>
-
 </p>
 
 <h2>🔭 Tools </h2>
@@ -43,7 +42,7 @@
 <h2>💼Tasks examples</h2>
 <a href="https://drive.google.com/drive/folders/1mn83T9eqRCnac55SmsZByYygIFQ6NoL-?usp=sharing">
   Test Cases
-</a>
+</a><br>
 <a href="https://drive.google.com/drive/folders/18lLGK8elatXnbkrglsbepv-nQo707F8G?usp=sharing">
   User Stories
 </a>
