@@ -1,6 +1,6 @@
 
 <div align = center>
-  ### Hi there 👋
+![Minimal Modern You Are Enough Quote Desktop Wallpaper](https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/9bc9bba2-d8b0-4a60-89f9-4c4506125a11)
   
 [![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
 
