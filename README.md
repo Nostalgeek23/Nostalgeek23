@@ -3,8 +3,10 @@
   <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/85344059-d441-4876-ae3e-5d53d5a23897" alt="header"/>
 </div>
 
+<div align="center">
+    ![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
+</div>
 
-  ![codewars](https://www.codewars.com/users/Nostalgeek23/badges/large)<br>
 
 
 <div align="center">
