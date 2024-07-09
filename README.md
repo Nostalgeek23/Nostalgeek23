@@ -35,8 +35,10 @@
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
-<h2>I’m currently working on </h2>
-<a href="https://github.com/Nostalgeek23/LUMAJavaSeleniumTestNGAllure"></a>
+<h2>💬 I’m currently working on </h2>
+<a href="https://github.com/Nostalgeek23/LUMAJavaSeleniumTestNGAllure">
+  <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/51da7ce4-9685-42b3-9016-2e793dd68eb5"/>
+</a>
 <h2>⚡ Stats </h2>
 <div align="center">
   <a href="https://cert.efset.org/xqCfR7"><img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/72.png" width="170" height="170"></a><br>
