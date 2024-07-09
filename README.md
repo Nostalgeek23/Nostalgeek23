@@ -1,12 +1,11 @@
 <div align="center">
 <div align="center">
   <img src="https://github.com/Nostalgeek23/Nostalgeek23/assets/49209427/85344059-d441-4876-ae3e-5d53d5a23897" alt="header"/>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 
 <h2>🔭 Tools </h2>
 <div>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![testng](https://github.com/Nostalgeek23/Mysite/assets/49209427/d5aebbdd-5f7b-410c-82f5-e195dd7ba03d)
