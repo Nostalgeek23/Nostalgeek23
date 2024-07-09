@@ -6,7 +6,7 @@
 <h2>🔭 Tools </h2>
 <div>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="(https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
 <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/d5aebbdd-5f7b-410c-82f5-e195dd7ba03d"/>
 <img src="https://github.com/Nostalgeek23/Mysite/assets/49209427/bdfa3c76-351e-4375-b157-4db417aed7c9"/>
@@ -27,28 +27,6 @@
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"/>
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  
-![Selenium])
-![Apache Maven]()
-![testng]()
-![Allure]()
-![GitHub]()
-![GitHub Actions]()
-![IntelliJ IDEA]()
-![Docker]()
-![CSS3]()
-![HTML5]()
-![MySQL]()
-![Postman]()
-![Microsoft Office]()
-![Android]()
-![Linux]()
-![Confluence]()
-![Jira]()
-![Notion]()
-![Trello]()
-![Wireguard]()
-![Google]()
 </div>
 <h2>⚡ Stats </h2>
 <div align="center">
