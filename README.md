@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-    <img src="https://www.codewars.com/users/Nostalgeek23/badges/small"/>
+    <img src="https://www.codewars.com/users/Nostalgeek23/badges/large"/>
 </div>
 
 <h2>📫 Reach me on </h2>
